@@ -1,3 +1,3 @@
 name = "luka"
-surename = "elikashvili"
+surename = "elikashivili"
 print(name + " " + surename)
